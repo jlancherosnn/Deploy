@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for,flash
-from config import*
+from src.config import *
 
 con_bd = EstablecerConexion()
 
