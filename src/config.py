@@ -1,10 +1,10 @@
 from psycopg2 import connect
  
-HOST = 'ec2-44-207-133-100.compute-1.amazonaws.com'
+HOST = 'ec2-44-205-63-142.compute-1.amazonaws.com'
 PUERTO = 5432
-BD = 'd5b6s8gfo43iln'
-USUARIO = 'slasirfrbzotmc'
-PASS = '470fa5944f7556739700b5296d8959da61d9d8f91e5ddd8d61485f02658458ed'
+BD = 'dehf0nblh7etqm'
+USUARIO = 'skqpanzywbkvkc'
+PASS = 'bfcbf923ff78451b63dd5165d478226b1147b8f3ab7a366fe784e31603edde78'
 
 def EstablecerConexion():
     try:
