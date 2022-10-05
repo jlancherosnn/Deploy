@@ -1,5 +1,5 @@
 from psycopg2 import connect
- 
+
 HOST = 'ec2-44-205-63-142.compute-1.amazonaws.com'
 PUERTO = 5432
 BD = 'dehf0nblh7etqm'
