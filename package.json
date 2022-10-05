@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "start": "node index.js",
     "serve": "^14.0.1"
   }
 }
