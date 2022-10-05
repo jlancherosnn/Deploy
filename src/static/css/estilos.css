@@ -1,0 +1,13 @@
+body{
+
+    background-color: hsl(187, 51%, 47%);
+    font-family: 400;
+    
+ }
+ .imag {
+    padding-right: 150px;
+    height: 500px;
+    width: 500px;
+    white-space: nowrap;
+  }
+  
