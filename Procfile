@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgi flaskapp:app
+web: gunicorn flaskapp:app
