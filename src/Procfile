@@ -1,1 +1,2 @@
-web: gunicorn flaskapp:app
+web:sh setup.sh && streamlit run Flaskapp.py
+
